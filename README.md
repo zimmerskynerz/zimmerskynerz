@@ -2,7 +2,7 @@
 - 👀 I’m interested in  programming analyst
 - 🌱 I'm currently learning analyst database and programming analyst
 - 📫 How to reach me :
-   https://zimmerskynerz.com
+   https://foxtech.biz.id
 
 <!---
 zimmerskynerz/zimmerskynerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
